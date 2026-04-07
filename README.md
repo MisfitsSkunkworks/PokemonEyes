@@ -1,5 +1,7 @@
 # PokemonEyes
 
+*OUTDATED AND UNMAINTAINED AS OF MID-2025*
+
 # Pokemon Eye Tracking Controller - Integration Guide
 
 ## Overview
